@@ -1,4 +1,5 @@
-image: jelaniwoods/appdev2021-refactoring-msm-queries-2@sha256:5c35780d6e6e64a5adf151abb8ca4adbdd1a90a00982e4555daf247040c546e2
+image: jelaniwoods/appdev2021-refactoring-msm-queries-2-hotfix
+
 tasks:
   - command: bundle install
   - init: bin/setup
